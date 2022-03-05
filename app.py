@@ -9,7 +9,7 @@ import numpy as np
 
 # Utils
 import joblib
-pipe_lr = joblib.load(open("Models1/cpc_classifier_pipe_lr_1_Mar_2022.pkl", "rb"))
+pipe_lr = joblib.load(open("App1/Models1/cpc_classifier_pipe_lr_1_Mar_2022.pkl", "rb"))
 
 
 # Functions to predict label
